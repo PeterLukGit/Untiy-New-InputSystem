@@ -4,10 +4,15 @@
 
 就是操控一個方塊，按左鍵發射方塊，長按發射一堆方塊(官方案例)
 
+第二個則是將UI元件轉化成搖桿或按鈕，來供給手機控制
+
+目前(2020/08/31)找不到Untiy-New-InputSystem在手機處碰上的教學，所以只能用UI轉換來代替
+
 ## 使用方法
 
 1. Unity Package 下載 InputSystem
 2. 把Package包丟進去
+
 
 ## 結論
 
@@ -15,6 +20,13 @@ Unity 2019推出的 InputSystem 真的非常的好用，
 
 好到，基本上只要有餘力的話，最好把專案的Input系統通通改成新的
 
+但目前(2020/08/31)手機觸摸部分，還要觀察看看......
+
+## 教學來源
+
+[ 【Unity 2D游戏开发教程】第39课 如何在Unity中实现支持XBox和PS4游戏手柄  ](https://www.bilibili.com/video/BV1vC4y1a7an?from=search&seid=8013781981626333257)
+
+[Mobile Joystick with NEW Input System and Cinemachine - Unity 2020 Tutorial](https://www.youtube.com/watch?v=YV5KOZHsIz4&list=PLKUARkaoYQT2nKuWy0mKwYURe2roBGJdr&index=7&t=0s)
 
 # 責任聲明：
 
