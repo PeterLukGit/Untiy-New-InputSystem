@@ -28,6 +28,8 @@ Unity 2019推出的 InputSystem 真的非常的好用，
 
 [Mobile Joystick with NEW Input System and Cinemachine - Unity 2020 Tutorial](https://www.youtube.com/watch?v=YV5KOZHsIz4&list=PLKUARkaoYQT2nKuWy0mKwYURe2roBGJdr&index=7&t=0s)
 
+[【Unity创作心得·第10期】新输入系统Input System的基本使用](https://www.bilibili.com/video/BV1xT4y1L7Cj?from=search&seid=8013781981626333257)
+
 # 責任聲明：
 
 [Blog位置](https://www.notion.so/Blog-f5fca1cafe1f4379aebeeb6260dd3dc6)
